@@ -1,0 +1,4 @@
+frontend/src/App.tsx
+
+const App = () => <div>Hello Akhilesh</div>;
+export default App;
